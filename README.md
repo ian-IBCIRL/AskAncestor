@@ -1,5 +1,7 @@
 # AskAncestor
-Ask any Ancestor about [anything](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shanakey%20Pitch%20Deck%20-%20NDRC%20Founder%20Weekend.pdf) you would like to know about life and their experience or advice.
+Ask any Ancestor about [anything](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shanakey%20Pitch%20Deck%20-%20NDRC%20Founder%20Weekend.pdf) you would like to know about life and their experience or advice. 
+
+I had the original AskGranmadad idea 15 years ago, and now that AI has caught up, we can make progress together.
 
 Download and [Listen](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shanakey%20pitch%202022-04-10.mp4) to the [deck](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shanakey%20Pitch%20Deck%20-%20NDRC%20Founder%20Weekend.pdf).
 
