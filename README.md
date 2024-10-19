@@ -7,7 +7,7 @@ Download and [Listen](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shan
 
 Have you ever wondered what your grandfather would make for breakfast? 
 
-Or how he would spend 100 credits at a furniture store?
+Or how he would spend 100 credits at a furniture store? 
 
 Have you ever wondered how your great aunt made the decision to move home?
 
