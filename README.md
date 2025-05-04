@@ -21,6 +21,7 @@ Now you can find out with a face to face conversation with them,
 - they answered, and opinions they shared, throughout their life.
 
 Contact us to get started.
-info@ibcirl.com
+ibowell@gmail.com
+
 
 
